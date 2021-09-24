@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.hero-bg {
+    background-image: url('./images/hero-bg.jpg');
+    background-position: 50% 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img-electric {
+    background-image: url('./images/billionphotos1079319min.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.service-section .icon-box {
+    height: 83px;
+    width: 83px;
+    background-color: red;
+    padding: 18px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+}
+
